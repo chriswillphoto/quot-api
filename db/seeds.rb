@@ -99,3 +99,4 @@ Quote.create :text => "Passion is one great force that unleashes creativity, bec
 Quote.create :text => "Neither a lofty degree of intelligence nor imagination, nor both together, go to the making of a genius. Love, love, love: that is the soul of genius.", :author => "Mozart", :families => "life motivation inspiration creative"
 Quote.create :text => "The essence of all beautiful art, all great art, is gratitude.", :author => "Friedrich Nietzsche", :families => "creative inspiration life"
 Quote.create :text => "You Don’t Have To Be Great To Start, But You Have To Start To Be Great.", :author => "Zig Ziglar", :families => "motivation life"
+Quote.create :text => "There Are No Limits To What You Can Accomplish, Except The Limits You Place On Your Own Thinking.", :author => "Brian Tracy", :families => "motivation life"
